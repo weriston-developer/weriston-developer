@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Weriston Alves 🖖
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=weriston-gif&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
